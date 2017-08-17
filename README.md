@@ -16,4 +16,9 @@ Tomi's HP development course for novices.
 * [FC2](https://fc2.com/)
 
 ## サンプルコード
+
 * <a href="https://gist.github.com/NarumiTomiyama/public" target="_blank">SampleCode</a>
+
+## サンプルサイト
+
+* [MPSsampleSite](http://mpsample.web.fc2.com/)
