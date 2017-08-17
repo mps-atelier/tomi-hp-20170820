@@ -8,6 +8,6 @@ Tomi's HP development course for novices.
 
 ## 使用する転送ソフト
 
-* [FileZilla](https://filezilla-client.softonic.jp/mac)
+* [FileZilla](https://filezilla-project.org/download.php?show_all=1)
 * [FFFTP](http://forest.watch.impress.co.jp/library/software/ffftp/)
 
