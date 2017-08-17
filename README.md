@@ -14,3 +14,6 @@ Tomi's HP development course for novices.
 ## 使用するHP設置場所
 
 * [FC2](https://fc2.com/)
+
+## サンプルコード
+* [SampleCode](https://gist.github.com/NarumiTomiyama/public)
